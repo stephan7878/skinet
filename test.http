@@ -1,3 +1,6 @@
+
+### Section 2 - API Basics
+
 @baseUrl = https://localhost:5001
 
 # @name WeatherForecast
@@ -15,5 +18,20 @@ GET {{baseUrl}}/api/products
 # @name GetProductById
 
 GET {{baseUrl}}/api/products/2
+
+###
+
+
+### Section 3 - Architecture
+
+# @name GetProductBrands
+
+GET {{baseUrl}}/api/products/brands
+
+###
+
+# @name GetProductTypes
+
+GET {{baseUrl}}/api/products/types
 
 ###
