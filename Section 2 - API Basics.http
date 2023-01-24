@@ -1,0 +1,19 @@
+@baseUrl = https://localhost:5001
+
+# @name WeatherForecast
+
+GET {{baseUrl}}/weatherforecast
+
+###
+
+# @name GetProducts
+
+GET {{baseUrl}}/api/products
+
+###
+
+# @name GetProductById
+
+GET {{baseUrl}}/api/products/2
+
+###
