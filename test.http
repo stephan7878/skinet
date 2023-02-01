@@ -35,3 +35,9 @@ GET {{baseUrl}}/api/products/brands
 GET {{baseUrl}}/api/products/types
 
 ###
+
+### Section 4 - Generics
+
+# @name GetImage
+
+GET {{baseUrl}}/images/products/sb-ang1.png
